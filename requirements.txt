@@ -1,0 +1,3 @@
+# No external dependencies required for the main script
+# Only needed for creating the executable
+pyinstaller>=6.0.0
