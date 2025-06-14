@@ -21,7 +21,7 @@ This program doesn't attempt to disprove the theorem (which is now proven), but 
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/fermats_near_misses.git
+git clone https://github.com/mariogee11/fermats_near_misses.git
 cd fermats_near_misses
 ```
 
@@ -34,13 +34,11 @@ python fermats_near_miss.py
 ```
 
 ### Running the Executable
-The executable file is located in the `dist` folder. You can run it in two ways:
-
-1. Navigate to the `dist` folder and double-click on `fermats_near_miss.exe`
+1. Double-click on `fermats_near_miss.exe`
 
 2. Or run it from the command line:
 ```
-.\dist\fermats_near_miss.exe
+.fermats_near_miss.exe
 ```
 
 ## How It Works
